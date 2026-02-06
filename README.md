@@ -189,5 +189,6 @@ All transformations and orchestration are intended to run within **Databricks no
   - Introducing data quality checks (e.g., expectations) in Silver/Gold layers.
   - Automating deployments and tests with CI/CD (e.g., GitHub Actions with Databricks).
 - Go through the following Medium article for more information.
+
 https://medium.com/@pasan.eecs/learning-databricks-through-a-realistic-business-acquisition-scenario-6e3449ed3631
 
